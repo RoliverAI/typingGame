@@ -95,6 +95,14 @@
       "timestamp": "2025-02-10T14:27:11.049993",
       "wpm": 27.0,
       "accuracy": 100.0
+    },
+    {
+      "user": "Richard",
+      "lessonId": 4,
+      "lessonTitle": "Punctuation Practice",
+      "timestamp": "2025-02-10T15:41:47.216396",
+      "wpm": 18.8,
+      "accuracy": 100.0
     }
   ]
 }

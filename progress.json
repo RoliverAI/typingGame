@@ -1,0 +1,100 @@
+{
+  "attempts": [
+    {
+      "user": "mike",
+      "lessonId": 1,
+      "lessonTitle": "Home Row",
+      "timestamp": "2025-02-10T14:07:25.964519",
+      "wpm": 20.28,
+      "accuracy": 44.44
+    },
+    {
+      "user": "mike",
+      "lessonId": 1,
+      "lessonTitle": "Home Row",
+      "timestamp": "2025-02-10T14:07:41.640256",
+      "wpm": 15.76,
+      "accuracy": 88.89
+    },
+    {
+      "user": "mike",
+      "lessonId": 1,
+      "lessonTitle": "Home Row",
+      "timestamp": "2025-02-10T14:07:50.475253",
+      "wpm": 26.22,
+      "accuracy": 100.0
+    },
+    {
+      "user": "mike",
+      "lessonId": 1,
+      "lessonTitle": "Home Row",
+      "timestamp": "2025-02-10T14:08:36.341127",
+      "wpm": 27.86,
+      "accuracy": 100.0
+    },
+    {
+      "user": "mike",
+      "lessonId": 7,
+      "lessonTitle": "Tech Terms",
+      "timestamp": "2025-02-10T14:14:19.936700",
+      "wpm": 19.83,
+      "accuracy": 100.0
+    },
+    {
+      "user": "mike",
+      "lessonId": 1,
+      "lessonTitle": "Home Row",
+      "timestamp": "2025-02-10T14:20:50.266687",
+      "wpm": 46.09,
+      "accuracy": 100.0
+    },
+    {
+      "user": "mike",
+      "lessonId": 2,
+      "lessonTitle": "Short Paragraph",
+      "timestamp": "2025-02-10T14:21:08.173203",
+      "wpm": 48.33,
+      "accuracy": 43.18
+    },
+    {
+      "user": "mike",
+      "lessonId": 3,
+      "lessonTitle": "Numbers 1-10",
+      "timestamp": "2025-02-10T14:21:21.761248",
+      "wpm": 87.22,
+      "accuracy": 100.0
+    },
+    {
+      "user": "mike",
+      "lessonId": 3,
+      "lessonTitle": "Numbers 1-10",
+      "timestamp": "2025-02-10T14:21:24.264075",
+      "wpm": 63.95,
+      "accuracy": 100.0
+    },
+    {
+      "user": "Anonymous",
+      "lessonId": 1,
+      "lessonTitle": "Home Row",
+      "timestamp": "2025-02-10T14:26:43.406792",
+      "wpm": 21.18,
+      "accuracy": 100.0
+    },
+    {
+      "user": "Anonymous",
+      "lessonId": 2,
+      "lessonTitle": "Short Paragraph",
+      "timestamp": "2025-02-10T14:27:08.124981",
+      "wpm": 31.62,
+      "accuracy": 100.0
+    },
+    {
+      "user": "Anonymous",
+      "lessonId": 2,
+      "lessonTitle": "Short Paragraph",
+      "timestamp": "2025-02-10T14:27:11.049993",
+      "wpm": 27.0,
+      "accuracy": 100.0
+    }
+  ]
+}
